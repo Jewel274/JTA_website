@@ -1,2 +1,17 @@
 # JTA_website
-Destination Jamaica is a personal project showcasing my web development skills. The site highlights Jamaica’s culture, cuisine, and attractions—from waterfalls to reggae rhythms. Designed with a user-friendly layout, it reflects the island’s beauty, diversity, and warm hospitality.
+Destination Jamaica Website
+
+Destination Jamaica is a personal/professional project created to showcase my web development skills. This website highlights Jamaica as a premier travel destination, featuring its culture, heritage, cuisine, and breathtaking attractions.
+
+Features:
+
+Beautifully designed sections showcasing Jamaica’s natural wonders, including majestic waterfalls, beaches, and scenery
+
+Highlights of authentic Jamaican cuisine, culture, and heritage
+
+Engaging content that reflects Jamaica’s motto “Out of Many, One People”
+
+A user-friendly layout that captures the essence of Jamaica’s vibrancy and warmth
+
+Purpose:
+The project demonstrates my ability to design and develop a visually appealing, informative, and structured website using modern web development practices. It is both a portfolio piece and a creative project that celebrates Jamaica’s beauty and uniqueness.
